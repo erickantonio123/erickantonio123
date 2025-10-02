@@ -60,8 +60,9 @@ Profissional em transição de carreira com sólida base em:
 
 ## 🧩 Projetos Pessoais
 
-- 🔗 [**Blog com Spring Boot**](https://github.com/erickantonio123/Locadora) 
+- 🔗 [** buscador-de-filmes **](https://github.com/erickantonio123/Locadora) 
   CRUD completo de postagens com Spring Boot, JPA, Thymeleaf, autenticação e autorização, integração com APIs REST.
+  
   
 
 - 🔧 **Integração com APIs REST externas**  
