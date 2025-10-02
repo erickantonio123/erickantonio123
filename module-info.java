@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Familia
- *
- */
-module Arrays {
-}
