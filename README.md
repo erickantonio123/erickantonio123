@@ -33,7 +33,7 @@ Profissional em transição de carreira com sólida base em:
 
 ## 💼 Experiência Profissional
 
-**MKData** (12/2024 – Atual)  
+**MKData** (12/2024 –07/2025)  
 **Cargo:** Analista de Suporte ao Sistema (com atuação em desenvolvimento)
 
 **Responsabilidades:**
